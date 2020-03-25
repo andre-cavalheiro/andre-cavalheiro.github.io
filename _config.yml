@@ -1,10 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: A gentleman's blog
+description: I needed a place to gather my thoughs and dump my ideas... this is it!
+author: André Cavalheiro
+github: https://github.com/andre-cavalheiro
+about: CS master student. ML/AI enthusiast, freedom lover and over all lovable guy.
 
 enableTags: true
 tagarray: []
@@ -16,19 +14,17 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/andre.cavalheiro4"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/dqeCHbMRdq66pjO"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/andre-cavalheiro"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/andre-cavalheiro"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: dqeCHbMRdq66pjO
+  fb_appid: andre.cavalheiro4
 
 urls:
     - text: About Me
@@ -38,7 +34,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://github.com/andre-cavalheiro"
 baseurl: ""
 paginate: 20
 per_page: 20

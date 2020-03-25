@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+CS master student. ML/AI enthusiast, freedom lover and over all lovable guy.
 
-email: agus[at]python.web.id
+email: andre.cavalheiro@tecnico.ulisboa.pt
