@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title:  "Travelling in Gansu"
+title:  "Example Project"
 slug: "travel-gansu"
 ---
 
