@@ -1,10 +1,27 @@
 [
 	{
-		"slug": "travel-gansu",
-		"name": "Travelling in Gansu",
+		"slug": "travelGansu",
+		"name": "First Encounter with the Western Frontier",
 		"image": "placeholder.jpg",
 		"url": "",
-		"date": "April 2020",
+		"date": "March 2019",
 		"tags": ["China", "Travelling"]
+	}, 
+	{	
+		"slug": "armHack",
+		"name": "ArmHack",
+		"image": "placeholder.jpg",
+		"url": "",
+		"date": "February-June 2018",
+		"tags": ["Eletronics", "Arduino", "Exoskeleton"]
+	}, 
+	{	
+		"slug": "carBlocks",
+		"name": "Car Blocks",
+		"image": "placeholder.jpg",
+		"url": "",
+		"date": "July 2018",
+		"tags": ["Eletronics", "Sustainability", "China"]
 	}
+
 ]
