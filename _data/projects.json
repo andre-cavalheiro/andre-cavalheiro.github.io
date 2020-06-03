@@ -5,7 +5,7 @@
 		"image": "placeholder.jpg",
 		"url": "",
 		"date": "March 2019",
-		"tags": ["China", "Travelling"]
+		"tags": ["China", "Travelling", "Tsinghua"]
 	}, 
 	{	
 		"slug": "armHack",
@@ -13,15 +13,15 @@
 		"image": "placeholder.jpg",
 		"url": "",
 		"date": "February-June 2018",
-		"tags": ["Eletronics", "Arduino", "Exoskeleton"]
+		"tags": ["Eletronics", "Arduino", "Exoskeleton", "Tecnico Lisboa"]
 	}, 
 	{	
 		"slug": "carBlocks",
 		"name": "Car Blocks",
-		"image": "placeholder.jpg",
+		"image": "carBlocks/teamLogo.png",
 		"url": "",
 		"date": "July 2018",
-		"tags": ["Eletronics", "Sustainability", "China"]
+		"tags": ["Eletronics", "Sustainability", "China", "Tsinghua"]
 	}
 
 ]
