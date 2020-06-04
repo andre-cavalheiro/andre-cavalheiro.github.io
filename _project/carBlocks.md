@@ -17,7 +17,7 @@ In the end, we got to present our project to local professors and investors to b
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.jpg">
-  <figcaption>The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
+  <figcaption align="center">The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
 </p>
 
 
@@ -65,12 +65,12 @@ This trend can also be analysed by the number of vehicles per thousand habitants
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
-  <figcaption>Figure 1 – World vehicles in Operation [1]</figcaption>
+  <figcaption align="center">Figure 1 – World vehicles in Operation [1]</figcaption>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
-  <figcaption>Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </figcaption>
+  <figcaption align="center">Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </figcaption>
 </p>
 
 
@@ -83,7 +83,7 @@ At last, but not least is the problem of cars having a fixed purpose. A differen
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
-  <figcaption>Figure 3 – Percentage of seat occupancy through time [4] </figcaption>
+  <figcaption align="center">Figure 3 – Percentage of seat occupancy through time [4] </figcaption>
 </p>
 
 
@@ -174,7 +174,7 @@ There are a few ways to do this. One of them is to have a single motor per wheel
 
 <p align="center">
   <img0 src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
-  <figcaption>Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</figcaption>
+  <figcaption align="center">Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</figcaption>
 </p>
 
 However, it would be very complex, and not very efficient for a single controller to interact directly with every motor. Which leads us to the other important detail we need to take into consideration: Each module needs to have its own controller which would control the module's motors according to the inputs deriving from the main controller located in module zero.
@@ -190,22 +190,22 @@ The overall idea of this part will be the use of a set of fitting parts that are
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
-  <figcaption>Figure 10 – Module Locking Device</figcaption>
+  <figcaption align="center">Figure 10 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
-  <figcaption>Figure 11 – Module Locking Device</figcaption>
+  <figcaption align="center">Figure 11 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
-  <figcaption>Figure 12 – Module Locking Device</figcaption>
+  <figcaption align="center">Figure 12 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
-  <figcaption>Figure 13 – Electronic Linear Actuator</figcaption>
+  <figcaption align="center">Figure 13 – Electronic Linear Actuator</figcaption>
 </p>
 
 
@@ -214,16 +214,14 @@ The overall idea of this part will be the use of a set of fitting parts that are
 In conclusion it should be noted that it is important to optimize the means of transportation so that they have a less impact on the environment, more versatile and user friendly.
 Regarding the initial ideas of this project we can highlight that this is quite possible to be accomplished, but that clearly needs much more research, dimensioning/design and simulations related to integrity of the chassis and modulo locking device in order to make the project practicable and approved by the laws imposed.
 
+
 ## References
 
-[1] http://wardsauto.com/site-files/wardsauto.com/files/imagecache/large_img/uploads/2017/10/world-vio- 2010 -
-2016.png
+[1] http://wardsauto.com/site-files/wardsauto.com/files/imagecache/large_img/uploads/2017/10/world-vio-2010-2016.png
 
-[2] https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images
-/articles/Electric_Vehicle_Forecast_XL_2054_1086_80.jpg
+[2] https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/Electric_Vehicle_Forecast_XL_2054_1086_80.jpg
 
-[3] https://www.energy.gov/eere/vehicles/fact- 841 - october- 6 - 2014 - vehicles-
-thousand-people-us-vs-other-world-regions
+[3] https://www.energy.gov/eere/vehicles/fact-841-october-6-2014-vehicles-thousand-people-us-vs-other-world-regions
 
 [4] https://www.eea.europa.eu/data-and-maps/indicators/occupancy-rates-of-passenger-vehicles/occupancy-rates-of-passenger-vehicles
 
@@ -232,5 +230,3 @@ thousand-people-us-vs-other-world-regions
 [6] https://www.design-engineering.com/wp-content/uploads/2016/02/16-Feb-THO-linear-actuator-625.jpg
 
 [7] https://www.goauto.com.au/assets/contents/c02ba9edcfdfddfd14d346533d663ee377a1df1.jpg
-
-
