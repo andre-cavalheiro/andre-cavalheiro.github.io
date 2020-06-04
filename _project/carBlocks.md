@@ -4,6 +4,21 @@ title:  "Car Blocks"
 slug: "carBlocks"
 ---
 
+# Competition
+
+The __Tsinghua-Santander World Challenges of 21st Century Programe__ os a worldwide competition issued by Tsinghua University as a means of motivating research and development among the younger generation to fix the problems of tomorrow. The 2018 edition in which I enrolled with a group of friends was about sustainability. The program consisted of two phases. The initial one, in which candidates could submit their ideas and reports for evaluation, and the final which occurred for two weeks during the Summer on the campus of Tsinghua University in Beijing China. 
+
+Me and a group of 3 other friends, all engineering students, developed a project - __Car Block__ - based on the idea of modular electrical vehicles with the hope of addressing the current problems of the car industry. Our project was recognized by the judges and we were invited to participate in the finals.  We were then given materials to develop a miniature prototype of our idea while also attending several lectures about product development and entrepreneurship. For the construction, we required to master several areas of expertise such as Computer-Aided design, 3D printing, Arduino programming, and electronics. We also got to experience live in China and to learn in the most prestigious university in the country which was an extremely interesting experience. 
+
+By the end of our experience, we got to present our project to local professors and investors to be evaluated. The initial report that was submitted by the end of phase 1 can be read below. 
+
+<p align="center">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.png">
+  <figcaption>The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
+</p>
+
+
+# Report
 									
 <p style="text-align: center;"><i>Innovation makes the world better – urban sustainability</i></p>
 
@@ -46,12 +61,12 @@ With an exponential growth in technology, there is a growing need for mobility. 
 This trend can also be analysed by the number of vehicles per thousand habitants chart shown in figure 2 and also be related with cars per household.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
   <figcaption>Figure 1 – World vehicles in Operation [1]</figcaption>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
   <figcaption>Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </figcaption>
 </p>
 
@@ -64,7 +79,7 @@ At last, but not least is the problem of cars having a fixed purpose. A differen
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
   <figcaption>Figure 3 – Percentage of seat occupancy through time [4] </figcaption>
 </p>
 
@@ -118,7 +133,7 @@ When choosing a battery type, one of the most important things to consider is th
 When starting to analyse these types of batteries we can almost start by discarding lead acid. It is true that lead acid batteries have been used in cars for many years, however not for the purpose we will be using them. Lead acids have a lot going for them. They are the safest, they are the ones who need the least complicated circuit for charging and for the most part they are cheap. However, size and weight is something we have to consider and their energy density which compared to the other technology’s it falls behind:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig8.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig8.png">
 </p>
 
 Now when comparing the other three technologies it gets a little more complicated. It’s easy to jump to the conclusion that Lithium-ion is the best choice (it’s what Tesla uses, and they know what they are doing) and that’s the conclusion we will reach to. But Why?
@@ -155,7 +170,7 @@ There are a few ways to do this. One of them is to have a single motor per wheel
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
+  <img0 style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
   <figcaption>Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</figcaption>
 </p>
 
@@ -171,22 +186,22 @@ This is undoubtedly the most complicated component to be developed. It is worth 
 The overall idea of this part will be the use of a set of fitting parts that are part of one module and then joined through locking systems powered by electric actuators. It is also very important for the assembly to remain locked even in case of power failure of the actuators.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
   <figcaption>Figure 10 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
   <figcaption>Figure 11 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
   <figcaption>Figure 12 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
   <figcaption>Figure 13 – Electronic Linear Actuator</figcaption>
 </p>
 
