@@ -6,14 +6,17 @@ slug: "carBlocks"
 
 # Competition
 
-The __Tsinghua-Santander World Challenges of 21st Century Programe__ os a worldwide competition issued by Tsinghua University as a means of motivating research and development among the younger generation to fix the problems of tomorrow. The 2018 edition in which I enrolled with a group of friends was about sustainability. The program consisted of two phases. The initial one, in which candidates could submit their ideas and reports for evaluation, and the final which occurred for two weeks during the Summer on the campus of Tsinghua University in Beijing China. 
+The __Tsinghua-Santander World Challenges of 21st Century Programe__ is a world-wide competition issued by Tsinghua University as a means of motivating research and development among the younger generation to fix the problems of tomorrow. The 2018 edition in which I enrolled with a group of friends was about sustainability. The program consisted of two phases. The initial one, in which candidates could submit their ideas and reports for evaluation, and the final which occurred for two weeks during the Summer on the campus of Tsinghua University in Beijing China. 
 
-Me and a group of 3 other friends, all engineering students, developed a project - __Car Block__ - based on the idea of modular electrical vehicles with the hope of addressing the current problems of the car industry. Our project was recognized by the judges and we were invited to participate in the finals.  We were then given materials to develop a miniature prototype of our idea while also attending several lectures about product development and entrepreneurship. For the construction, we required to master several areas of expertise such as Computer-Aided design, 3D printing, Arduino programming, and electronics. We also got to experience live in China and to learn in the most prestigious university in the country which was an extremely interesting experience. 
+Me and a group of 3 other friends, all engineering students, developed a project, __Car Blocks__ based on the idea of modular electrical vehicles with the hope of addressing the current problems of the car industry. Our project was recognized as one the best submitted and therefore we were invited to participate in the finals.  
 
-By the end of our experience, we got to present our project to local professors and investors to be evaluated. The initial report that was submitted by the end of phase 1 can be read below. 
+We were then given materials to develop a miniature prototype of our idea while also attending several lectures about product development and entrepreneurship. For the construction, we required to master several areas of expertise such as Computer-Aided design, 3D printing, Arduino programming, and electronics. We also got to experience life in China in the most prestigious university in the country while also meeting entrepreneus from all over the world which was an extremely interesting experience. It's also worth mentioning that on average we were the youngest team in the finals. At the time all of us were in the third year of our bachelor's. 
+
+In the end, we got to present our project to local professors and investors to be evaluated. The initial report that was submitted by the end of phase 1 can be read below. 
+
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.png">
+  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.jpg">
   <figcaption>The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
 </p>
 
