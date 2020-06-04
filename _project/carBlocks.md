@@ -16,7 +16,7 @@ In the end, we got to present our project to local professors and investors to b
 
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.jpg">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.jpg">
   <figcaption>The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
 </p>
 
@@ -64,12 +64,12 @@ With an exponential growth in technology, there is a growing need for mobility. 
 This trend can also be analysed by the number of vehicles per thousand habitants chart shown in figure 2 and also be related with cars per household.
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
   <figcaption>Figure 1 – World vehicles in Operation [1]</figcaption>
 </p>
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
   <figcaption>Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </figcaption>
 </p>
 
@@ -82,7 +82,7 @@ At last, but not least is the problem of cars having a fixed purpose. A differen
 
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
   <figcaption>Figure 3 – Percentage of seat occupancy through time [4] </figcaption>
 </p>
 
@@ -136,7 +136,7 @@ When choosing a battery type, one of the most important things to consider is th
 When starting to analyse these types of batteries we can almost start by discarding lead acid. It is true that lead acid batteries have been used in cars for many years, however not for the purpose we will be using them. Lead acids have a lot going for them. They are the safest, they are the ones who need the least complicated circuit for charging and for the most part they are cheap. However, size and weight is something we have to consider and their energy density which compared to the other technology’s it falls behind:
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig8.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig8.png">
 </p>
 
 Now when comparing the other three technologies it gets a little more complicated. It’s easy to jump to the conclusion that Lithium-ion is the best choice (it’s what Tesla uses, and they know what they are doing) and that’s the conclusion we will reach to. But Why?
@@ -173,7 +173,7 @@ There are a few ways to do this. One of them is to have a single motor per wheel
 
 
 <p align="center">
-  <img0 style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
+  <img0 src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
   <figcaption>Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</figcaption>
 </p>
 
@@ -189,22 +189,22 @@ This is undoubtedly the most complicated component to be developed. It is worth 
 The overall idea of this part will be the use of a set of fitting parts that are part of one module and then joined through locking systems powered by electric actuators. It is also very important for the assembly to remain locked even in case of power failure of the actuators.
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
   <figcaption>Figure 10 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
   <figcaption>Figure 11 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
   <figcaption>Figure 12 – Module Locking Device</figcaption>
 </p>
 
 <p align="center">
-  <img style="width: 75vw; height: 75vw;" src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
   <figcaption>Figure 13 – Electronic Linear Actuator</figcaption>
 </p>
 
