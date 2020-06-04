@@ -17,7 +17,7 @@ In the end, we got to present our project to local professors and investors to b
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/tsinghuaGang.jpg">
-  <figcaption align="center">The entire group of participants and organizers in the Summer Palace, Beijing, China.</figcaption>
+  <p align="center">The entire group of participants and organizers in the Summer Palace, Beijing, China.</p>
 </p>
 
 
@@ -65,12 +65,12 @@ This trend can also be analysed by the number of vehicles per thousand habitants
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig1.png">
-  <figcaption align="center">Figure 1 – World vehicles in Operation [1]</figcaption>
+  <p align="center">Figure 1 – World vehicles in Operation [1]</p>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig2.png">
-  <figcaption align="center">Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </figcaption>
+  <p align="center">Figure 2 – Global Analyses-Vehicles Per 1000 People [3] </p>
 </p>
 
 
@@ -83,7 +83,7 @@ At last, but not least is the problem of cars having a fixed purpose. A differen
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig3.png">
-  <figcaption align="center">Figure 3 – Percentage of seat occupancy through time [4] </figcaption>
+  <p align="center">Figure 3 – Percentage of seat occupancy through time [4] </p>
 </p>
 
 
@@ -127,7 +127,7 @@ Finally, it should be noted that the customer does not need to purchase all the 
 Electric cars are getting more popular as time goes by, and with that comes a lot of benefits. Electric infrastructure will improve people’s lives. If they become as wide spread (or even more, because of their simplicity) as fuel pumps, it would exponential grow the numbers users of electric cars. Studies say that the average buyer of electric cars are middle aged man with higher education. According to OPEC electric vehicle forecast the market growing expectations is rising exponentially as shown in figure 8.
 
 
-Figure 8 – Electric Propulsion Vehicle market growing expectations [2]
+
 
 
 ## Battery Analyses
@@ -137,12 +137,14 @@ When starting to analyse these types of batteries we can almost start by discard
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig8.png">
+    <p align="center">Figure 8 – Electric Propulsion Vehicle market growing expectations [2]</p>
 </p>
 
 Now when comparing the other three technologies it gets a little more complicated. It’s easy to jump to the conclusion that Lithium-ion is the best choice (it’s what Tesla uses, and they know what they are doing) and that’s the conclusion we will reach to. But Why?
-First, for a car we need the most energy possible (more energy = more Kilometres) so we can discard Nickel–metal hydride as Lithium-ion and Lithium polymer are the most energy dense of all them. So why not use Lithium polymer? We have seen that its energy density its almost the same as Lithium-ion, they have the same problems with charging (over-charging, under-charging, over-heating, instability when ruptured) so what is the difference? Well Li-Po have the peculiarity that they can bend and that can be seen as good and bad. It would grant a level of security however bend them too much and they
-will rupture and combust. Another thing that we have to take in consideration when using li-Po’s in a big package is that they will expand in case of over charge (due to slight vaporization of the electrolyte), and that would be catastrophic. So even Lithium-ion are not the perfect choice (they need to be cooled by a refrigerating system, there charging circuit is complicated and they are one of the most expensive technology’s) they are the
-right type for this project
+
+First, for a car we need the most energy possible (more energy = more Kilometres) so we can discard Nickel–metal hydride as Lithium-ion and Lithium polymer are the most energy dense of all them. So why not use Lithium polymer? We have seen that its energy density its almost the same as Lithium-ion, they have the same problems with charging (over-charging, under-charging, over-heating, instability when ruptured) so what is the difference? Well Li-Po have the peculiarity that they can bend and that can be seen as good and bad. It would grant a level of security however bend them too much and they will rupture and combust. 
+
+Another thing that we have to take in consideration when using li-Po’s in a big package is that they will expand in case of over charge (due to slight vaporization of the electrolyte), and that would be catastrophic. So even Lithium-ion are not the perfect choice (they need to be cooled by a refrigerating system, there charging circuit is complicated and they are one of the most expensive technology’s) they are the right type for this project.
 
 
 ## Chassis and Dynamics
@@ -173,8 +175,8 @@ There are a few ways to do this. One of them is to have a single motor per wheel
 
 
 <p align="center">
-  <img0 src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
-  <figcaption align="center">Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</figcaption>
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig9.png">
+  <p align="center">Figure 9 – Electric Propulsion Vehicle with a single electric engine [2]</p>
 </p>
 
 However, it would be very complex, and not very efficient for a single controller to interact directly with every motor. Which leads us to the other important detail we need to take into consideration: Each module needs to have its own controller which would control the module's motors according to the inputs deriving from the main controller located in module zero.
@@ -190,22 +192,22 @@ The overall idea of this part will be the use of a set of fitting parts that are
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig10.png">
-  <figcaption align="center">Figure 10 – Module Locking Device</figcaption>
+  <p align="center">Figure 10 – Module Locking Device</p>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig11.png">
-  <figcaption align="center">Figure 11 – Module Locking Device</figcaption>
+  <p align="center">Figure 11 – Module Locking Device</p>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig12.png">
-  <figcaption align="center">Figure 12 – Module Locking Device</figcaption>
+  <p align="center">Figure 12 – Module Locking Device</p>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/projects/carBlocks/fig13.png">
-  <figcaption align="center">Figure 13 – Electronic Linear Actuator</figcaption>
+  <p align="center">Figure 13 – Electronic Linear Actuator</p>
 </p>
 
 
