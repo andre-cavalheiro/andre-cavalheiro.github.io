@@ -1,19 +1,22 @@
 ---
 layout: project_single
 title:  "Voyage In Tibet"
-slug: "travelGansu"
+slug: "VoyageInTibet"
 ---
 
 
 # First encounter with the western frontier
 
-## Introduction
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andre-cavalheiro/andre-cavalheiro.github.io/master/static/img/_posts/China/profile.jpg">
+</p>
 
-What you're about to read....
 
-Cities: Xian, Lanzhou, Xiahe, Langmusi, Zhangye, Dunhuang
+
 
 ## Background
+
+__Cities__: Xian, Lanzhou, Xiahe, Langmusi, Zhangye, Dunhuang
 
 A bit more than a month after my arrival the first major travel happened. I was already starting to get familiar with the university and its workflow. The plan was to visit Xian during the weekend with Helena, Francisco, Min and Iris. Then meet Alex in Lanzhou and spend the following week on the road through Gansu province. 
 
