@@ -2,6 +2,7 @@
 layout: project_single
 title:  "Voyage In Tibet"
 slug: "VoyageInTibet"
+categories: ["Stack"]
 ---
 
 
