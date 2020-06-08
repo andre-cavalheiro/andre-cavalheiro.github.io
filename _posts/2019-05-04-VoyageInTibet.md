@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title:  "First Encounter with the Western Frontier"
+title:  "Voyage In Tibet"
 slug: "travelGansu"
 ---
 
@@ -11,7 +11,7 @@ slug: "travelGansu"
 
 What you're about to read....
 
-Cities: Xian, Lanzhou, ---------he, Langmusi, Zhangye, Dunhuang
+Cities: Xian, Lanzhou, Xiahe, Langmusi, Zhangye, Dunhuang
 
 ## Background
 
