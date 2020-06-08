@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Voyage In Tibet"
-date:   2019-05-04 23:20:00 +0700
-categories: []
+layout: project_single
+title:  "First Encounter with the Western Frontier"
+slug: "travelGansu"
 ---
 
-# First encounter with the western frontier - Voyage In Tibet
+
+# First encounter with the western frontier
 
 ## Introduction
 

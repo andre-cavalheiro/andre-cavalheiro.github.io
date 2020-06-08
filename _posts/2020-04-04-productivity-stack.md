@@ -10,7 +10,9 @@ _This post is part of the __Stack__ series where I share my main resources relat
 
 ## Frameworks
 
-raise Exception("Not Implemented")
+- GTD
+- Second Brain
+-  
 
 ## Tools
 
